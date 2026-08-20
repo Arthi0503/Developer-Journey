@@ -1,0 +1,22 @@
+1. Bank Management System
+
+About the Project:
+The Bank Management System is a Java-based console application developed to
+understand the basic operations of a banking system. The project focuses on
+implementing core Java concepts through a simple and practical application.
+
+Features:
+Create and manage bank accounts
+Deposit money
+Withdraw money
+Check account balance
+Perform basic banking operations
+Simple menu-driven console interface
+Technologies Used
+Java
+Object-Oriented Programming
+
+What I Learned:
+Through this project, I improved my understanding of Java programming,
+classes and objects, methods, conditional statements, user input handling,
+and basic object-oriented programming concepts.
