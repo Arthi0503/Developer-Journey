@@ -1,71 +1,171 @@
 # 👋 Hi, I'm Arthi
 
-I'm a **Computer Science Engineering student** passionate about software development and continuously improving my programming skills. This repository documents my learning journey, projects, certifications, and progress as I work toward becoming a Software Engineer.
+I'm a **Computer Science Engineering student** passionate about building software, solving problems, and continuously improving my technical skills.
+
+This repository is my **Developer Journey** — a place where I document what I learn, the projects I build, the certifications I earn, and the progress I make while working toward becoming a **Software Engineer**.
 
 ---
 
-## 🚀 Current Learning Roadmap
+## 🚀 My Developer Journey
 
-- ✅ Core Java
-- ✅ Object-Oriented Programming (OOP)
-- ✅ Git & GitHub
-- 🔄 SQL & Database Management
-- 🔄 Data Structures & Algorithms (Java)
-- 🔄 Android Development
-- 🔄 REST APIs & Postman
-- 🔄 Full Stack Java Development
+My current focus is on building a strong foundation in **Java, SQL, Data Structures, Software Development, and Git/GitHub**, while gradually moving toward real-world application development.
+
+### 📌 Learning Roadmap
+
+* ✅ Core Java
+* ✅ Object-Oriented Programming (OOP)
+* ✅ Git & GitHub
+* 🔄 SQL & Database Management
+* 🔄 Data Structures & Algorithms using Java
+* 🔄 Android Development
+* 🔄 REST APIs & Postman
+* 🔄 Full Stack Java Development
+* 🔜 System Design & Software Engineering Concepts
+* 🔜 Open Source Contributions
 
 ---
 
 ## 📂 Projects
 
-- 🏦 Bank Management System (Java)
-- 📱 Android Applications (Learning)
-- 💻 Mini Java Console Projects
-- 🚀 More projects coming soon...
+I believe the best way to learn development is by **building real projects**.
+Each project in this repository represents a step in my learning journey.
+
+### 🏦 Bank Management System
+
+A Java-based application designed to simulate basic banking operations such as account management and transactions.
+
+**Tech:** Java
+
+### 🔄 SyncBeat
+
+A project focused on applying programming concepts to solve a practical problem while improving my development and problem-solving skills.
+
+**Tech:** Java / SQL
+
+### 🧭 PathIQ
+
+A project developed as part of my journey toward building practical software solutions and understanding real-world application development.
+
+**Tech:** Java / SQL
+
+### 💰 Daily Spend Tracker
+
+A personal expense-tracking application designed to record and manage daily spending in an organized way.
+
+**Tech:** Java / SQL
+
+### 💻 Mini Java Projects
+
+A collection of smaller Java applications created while learning and practicing programming concepts, OOP, logic building, and problem-solving.
 
 ---
 
 ## 🛠️ Technologies & Tools
 
-- Java
-- SQL
-- Git & GitHub
-- Android Studio
-- IntelliJ IDEA
-- VS Code
-- MySQL
-- Postman
+### 💻 Programming
+
+* Java
+* Python
+* SQL
+
+### 🗄️ Database
+
+* MySQL
+* SQL
+
+### 🔧 Development Tools
+
+* IntelliJ IDEA
+* VS Code
+* Android Studio
+* Postman
+
+### 🌐 Version Control
+
+* Git
+* GitHub
 
 ---
 
 ## 📚 Currently Working On
 
-- Solving DSA problems using Java
-- Building Android applications
-- Improving problem-solving skills
-- Uploading projects regularly to GitHub
+* 🧩 Solving **Data Structures & Algorithms** problems using Java
+* 🗄️ Strengthening **SQL and database concepts**
+* 📱 Learning **Android development**
+* 🌐 Understanding **REST APIs and Postman**
+* 💡 Improving problem-solving and logical thinking
+* 🏗️ Building more practical projects
+* 📈 Improving my GitHub portfolio
+
+---
+
+## 🎓 Certifications & Learning
+
+This repository also tracks my certifications, courses, workshops, and other learning achievements.
+
+> Learning isn't limited to classrooms — every course, project, problem, and mistake contributes to my growth as a developer.
+
+---
+
+## 📈 GitHub Goals — 2026
+
+* ✅ Build a strong GitHub portfolio
+* 🔄 Upload projects consistently
+* 🔄 Strengthen Java development skills
+* 🔄 Master DSA and SQL
+* 🔄 Build real-world applications
+* 🔄 Learn industry-relevant development practices
+* 🔄 Contribute to Open Source
+* 🔜 Collaborate on meaningful projects
 
 ---
 
 ## 🎯 Career Goals
 
-**Short-Term Goal**
-- 💼 Software Developer
+### Short-Term Goal
 
-**Long-Term Goal**
-- 🌟 Software Engineer at Microsoft
+💼 Become a **Software Developer** and gain strong industry-level development experience.
 
----
+### Long-Term Goal
 
-## 📈 GitHub Goals (2026)
-
-- ✅ Build a strong GitHub portfolio
-- 🔄 Upload quality projects regularly
-- 🔄 Learn industry-level Java development
-- 🔄 Master DSA and SQL
-- 🔄 Contribute to Open Source
+🌟 Become a **Software Engineer at Microsoft** and work on impactful technology at scale.
 
 ---
 
-> *"Every project I build is one step closer to becoming the developer I aspire to be."* 🚀
+## 🌱 What I'm Building
+
+I'm not trying to learn everything at once.
+
+My approach is simple:
+
+**Learn → Practice → Build → Make mistakes → Improve → Repeat**
+
+Every project I build and every problem I solve is helping me become a better developer.
+
+---
+
+## 📊 Journey So Far
+
+| Area                | Progress             |
+| ------------------- | -------------------- |
+| Java                | 🟢 Strong Foundation |
+| OOP                 | 🟢 Completed         |
+| Git & GitHub        | 🟢 Completed         |
+| SQL                 | 🟡 Learning          |
+| DSA                 | 🟡 Learning          |
+| Android Development | 🟡 Learning          |
+| REST APIs           | 🟡 Learning          |
+| Full Stack Java     | 🟡 Upcoming          |
+| Open Source         | 🔜 Future Goal       |
+
+---
+
+## 🤝 Let's Connect
+
+I'm always interested in learning, building, collaborating, and connecting with other developers.
+
+If you're also on your learning journey, feel free to explore my repositories and follow along.
+
+---
+
+> **"Every project I build is one step closer to becoming the developer I aspire to be."** 🚀
