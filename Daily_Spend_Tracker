@@ -1,0 +1,24 @@
+Daily Spend Tracker:
+
+About the Project:
+Daily Spend Tracker is an Android application designed to help users record and
+manage their daily expenses. The application provides a simple way to keep track
+of spending and organize expenses into different categories.
+
+Features:
+Record daily expenses
+Categorize expenses
+Track spending
+Manage daily financial records
+Simple and user-friendly interface
+Google Sheets synchronization
+
+Technologies Used:
+Android Development
+Google Sheets
+Kotlin
+
+What I Learned:
+This project helped me understand how an application can be designed to solve an
+everyday problem. I learned more about handling user data, organizing information,
+creating useful application features, and connecting an application with Google Sheets for synchronization.
