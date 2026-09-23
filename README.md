@@ -10,14 +10,15 @@ I'm continuously improving my technical skills by learning new technologies, bui
 
 ### 📚 Learning Roadmap
 
-* ☑️ Java
-* ☑️ Python
-* ☑️ SQL
-* ☑️ Git & GitHub
-* ☑️ Android Development
-* 🔄 Data Analytics
-* 🔄 Web Development
-* 🔄 Advanced Programming & Problem Solving
+*☑️ Java
+*☑️ Python
+*☑️ SQL
+*☑️ Git & GitHub
+*☑️ Android Development
+*☑️ Web Development
+*☑️ Data Analytics — Basics
+*🔄 Advanced Programming & Problem Solving
+*🔄 Full-Stack Development
 
 ## 💻 Projects
 
@@ -48,6 +49,14 @@ An AI-powered Android application designed to help students improve employabilit
 ### 💰 Daily Spend Tracker
 
 A daily expense tracking application designed to help users record, organize, and manage their everyday expenses with simple categories and Google Sheets synchronization.
+
+**Technology:** Kotlin, Android Studio, Google Sheets
+
+### 📅 Schedula
+
+A full-stack timetable management system designed to manage academic timetables, detect scheduling conflicts, and assist with conflict resolution. The project includes an Android application and a FastAPI backend with Excel/CSV processing and Firebase/Firestore integration.
+
+**Technology:** Kotlin, Jetpack Compose, Python, FastAPI, Firebase, Firestore
 
 ## 🎯 My Goals
 
